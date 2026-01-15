@@ -2,7 +2,7 @@
 
 Use Final Cut Pro· Logic Pro Trial forever. 
 
-~~조려. 또 조려.~~
+Requires `Allow Running Scripts` option to be enabled in Shortcuts app settings. ~~조려. 또 조려.~~ 
 
 <img width="100" alt="${f}" src="https://github.com/user-attachments/assets/25c35bec-1733-4425-95c9-74a36cc7294b" />
 
@@ -10,7 +10,7 @@ Use Final Cut Pro· Logic Pro Trial forever.
 # Usage
 This shortcut resets the Final Cut Pro· Logic Pro trial count by removing files that records how many days are remaining. 
 
-You can create a monthly automation to automate running `Joryeo`.
+You can create a monthly automation to automate running `Joryeo`. 
 
 
 # Install
