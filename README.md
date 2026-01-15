@@ -17,7 +17,7 @@ You can create a monthly automation to automate running `Joryeo`.
 1. Go to [Releases](https://github.com/Dr-Sauce/Joryeo/releases/latest). Open iCloud link.
 2. Press **Add Shortcut**.
 
-## Source: 
+# Source: 
 [Final Cut Pro Trial Reset](https://gist.github.com/TehBrian/bf82c7505b647d423da6d5abbe2b95a3) ([TehBrian](https://gist.github.com/TehBrian))
 
 [Logic Pro X Trial Reset](https://gist.github.com/maxwellmlin/5e1ec9b2f988f466a9eeaceacf99baa8) ([maxwellmlin](https://gist.github.com/maxwellmlin))
